@@ -1,5 +1,5 @@
 {
-  "name": "lokielse/omnipay-unionpay",
+  "name": "yekz/omnipay-unionpay",
   "type": "library",
   "description": "UnionPay gateway for Omnipay payment processing library",
   "keywords": [
